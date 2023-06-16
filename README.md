@@ -8,7 +8,7 @@
 
 通过 section 和 enumerate 实现内容分层。
 
-![image-20230616163440444](C:\Users\yixin\AppData\Roaming\Typora\typora-user-images\image-20230616163440444.png)
+![image-20230616164316373](./assets/image-20230616164316373.png)
 
 
 
